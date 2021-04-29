@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Container version="2">
-  <Name>DSMR_Database</Name>
+  <Name>Postgres12.5</Name>
   <Repository>postgres:12.5-alpine</Repository>
   <Registry>https://registry.hub.docker.com/_/postgres/</Registry>
   <Network>bridge</Network>
