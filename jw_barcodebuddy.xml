@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <Container version="2">
   <Name>BarcodeBuddy</Name>
-  <Repository>f0rc3/barcodebuddy-docker:latest</Repository>
-  <Registry>https://hub.docker.com/r/f0rc3/barcodebuddy-docker</Registry>
+  <Repository>f0rc3/barcodebuddy:latest</Repository>
+  <Registry>https://hub.docker.com/r/f0rc3/barcodebuddy</Registry>
   <Network>bridge</Network>
   <MyIP/>
   <Shell>sh</Shell>
